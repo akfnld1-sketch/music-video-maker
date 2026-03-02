@@ -1,0 +1,19 @@
+# 패키지 (npm install로 재생성 가능)
+node_modules/
+
+# 업로드된 파일 (개인정보)
+uploads/
+
+# 생성된 영상 (용량 큼)
+outputs/
+
+# 임시 파일
+temp/
+
+# ffmpeg 실행파일 (라이선스 + 용량)
+ffmpeg.exe
+ffmpeg
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
